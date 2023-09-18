@@ -9,7 +9,7 @@ int main()
     fscanf(ptr,"%d",&num3);
     fclose(ptr);
     printf("The value of num1 is: %d\n",num1);
-    printf("The value of num1 is: %d\n",num2);
-    printf("The value of num1 is: %d\n",num3);
+    printf("The value of num2 is: %d\n",num2);
+    printf("The value of num3 is: %d\n",num3);
     return 0;
 }
