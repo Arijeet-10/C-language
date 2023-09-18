@@ -33,8 +33,7 @@ int gameResult(char comp,char you)
     {
         return 1;
     }
-    
-    
+
 }
 
 int main()
